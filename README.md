@@ -10,6 +10,9 @@
 # Download
 https://github.com/Master-s/PS4-tools/releases/tag/master
 
+# Youtube
+https://www.youtube.com/watch?v=Mrzj3XfpZA4
+
 
 # Credit
 
